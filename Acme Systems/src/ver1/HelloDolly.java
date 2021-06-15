@@ -4,7 +4,8 @@ public class HelloDolly {
 
 	public static void main(String[] args) {
 		
-		System.out.print("Hello Dolly");
+		System.out.println("Hello Dolly from Eclipse");
+		System.out.println("Hello Dolly from Eclipse Again");
 
 	}
 
