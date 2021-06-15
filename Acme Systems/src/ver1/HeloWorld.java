@@ -1,0 +1,11 @@
+package ver1;
+
+public class HeloWorld {
+
+	public static void main(String[] args) {
+		
+		System.out.print("Hello from Eclipse");
+
+	}
+
+}
