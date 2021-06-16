@@ -15,5 +15,12 @@ public class HeloWorld {
 		System.out.println(Msg);
 	
 	}
+	
+	public static void whatFor(String input) {
+		
+		String Msg = input + ", what for?";
+		System.out.println(Msg);
+	
+	}
 
 }
