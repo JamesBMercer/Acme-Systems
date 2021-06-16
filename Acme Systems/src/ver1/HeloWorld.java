@@ -8,5 +8,12 @@ public class HeloWorld {
 		System.out.print("Hello from Github");
 
 	}
+	
+	public static void heyNow() {
+		
+		String Msg = "Hey Now!";
+		System.out.println(Msg);
+	
+	}
 
 }
